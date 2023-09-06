@@ -25,7 +25,7 @@ env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   FEEDS_CONF: firmware_build/feeds.conf.default
-  CONFIG_FILE: firmware_build/ax6000-lean-128.config
+  CONFIG_FILE: firmware_build/ax6000-lean-512-rt.config
   DIY_P1_SH: firmware_build/diy-part1.sh
   DIY_P2_SH: firmware_build/diy-part2.sh
   SSH_ACTIONS: false
