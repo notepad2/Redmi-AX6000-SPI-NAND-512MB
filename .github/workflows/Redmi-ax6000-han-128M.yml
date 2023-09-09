@@ -23,7 +23,7 @@ on:
 
 env:
   REPO_URL: https://github.com/hanwckf/immortalwrt-mt798x
-  REPO_BRANCH: master
+  REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: firmware_build/feeds.conf.default
   CONFIG_FILE: firmware_build/128-han-ap.config
   DIY_P1_SH: firmware_build/diy-part1.sh
